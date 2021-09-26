@@ -17,7 +17,6 @@ const Cart = (props) => {
     }
   }
 
-  // if(cart.includes(cart.name))
   return (
     <div>
       <div>
