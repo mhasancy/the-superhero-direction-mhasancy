@@ -1,27 +1,11 @@
-/* import React from "react";
-
-const NameUpdate = (props) => {
-  let nameUpdate = "";
-  props.name.map((nameObject) => {
-    nameUpdate = nameUpdate + nameObject.name;
-    return nameUpdate;
-  });
-  return (
-    <div className="name-update">
-      <li>{nameUpdate}</li>
-    </div>
-  );
-};
-
-export default NameUpdate;
- */
+//imported ifle
 import React from "react";
-
+//name update component
 const NameUpdate = (props) => {
-  console.log(props.university.name);
+  console.log(props.participant.name);
   return (
     <div>
-      <li>{props.university.name}</li>
+      <li>{props.participant.name}</li>
     </div>
   );
 };

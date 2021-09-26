@@ -1,12 +1,12 @@
 import "./App.css";
-import Container from "./components/Header/Container/Container";
 import Header from "./components/Header/Header";
+import ParticipantCartContainer from "./components/ParticipantCartContainer/ParticipantCartContainer";
 
 function App() {
   return (
     <div>
       <Header></Header>
-      <Container></Container>
+      <ParticipantCartContainer></ParticipantCartContainer>
     </div>
   );
 }

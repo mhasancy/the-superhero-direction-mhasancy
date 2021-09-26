@@ -1,4 +1,4 @@
-# University Programming Marathon Project
+# Participant Programming Marathon Project
 
 Click the link and go for making the project come true. [Click Here ](https://the-superhero-direction-mhasancy.netlify.app/).
 

@@ -6,7 +6,7 @@
     "location": "United States",
     "established": 1861,
     "type": "Public",
-    "donations": 1400
+    "fee": 1400
   },
   {
     "name": "University of Oxford",
@@ -15,7 +15,7 @@
     "location": "United Kingdom",
     "established": 1096,
     "type": "Public",
-    "donations": 1330
+    "fee": 1330
   },
   {
     "name": "Stanford University",
@@ -24,7 +24,7 @@
     "location": "United States",
     "established": 1891,
     "type": "Private",
-    "donations": 1105
+    "fee": 1105
   },
   {
     "name": "University of Cambridge",
@@ -33,7 +33,7 @@
     "location": "United Kingdom",
     "established": 1209,
     "type": "Public",
-    "donations": 1304
+    "fee": 1304
   },
   {
     "name": "Harvard University",
@@ -42,7 +42,7 @@
     "location": "United States",
     "established": 1636,
     "type": "Private",
-    "donations": 1220
+    "fee": 1220
   },
   {
     "name": "California Institute of Technology",
@@ -51,7 +51,7 @@
     "location": "United States",
     "established": 1891,
     "type": "Private",
-    "donations": 1150
+    "fee": 1150
   },
   {
     "name": "Imperial College London",
@@ -60,7 +60,7 @@
     "location": "United Kingdom",
     "established": 1907,
     "type": "Public",
-    "donations": 1000
+    "fee": 1000
   },
   {
     "name": "University College London",
@@ -69,7 +69,7 @@
     "location": "United Kingdom",
     "established": 1826,
     "type": "Public",
-    "donations": 1175
+    "fee": 1175
   },
   {
     "name": "University of Chicago",
@@ -78,7 +78,7 @@
     "location": "United States",
     "established": 1890,
     "type": "Private",
-    "donations": 1090
+    "fee": 1090
   },
   {
     "name": "National University of Singapore",
@@ -87,7 +87,7 @@
     "location": "Singapore",
     "established": 1905,
     "type": "Autonomous",
-    "donations": 1025
+    "fee": 1025
   },
   {
     "name": "University of Pennsylvania",
@@ -96,7 +96,7 @@
     "location": "United States",
     "established": 1740,
     "type": "Private",
-    "donations": 1270
+    "fee": 1270
   },
   {
     "name": "Yale University",
@@ -105,7 +105,7 @@
     "location": "United States",
     "established": 1701,
     "type": "Private",
-    "donations": 1100
+    "fee": 1100
   },
   {
     "name": "Tsinghua University",
@@ -114,7 +114,7 @@
     "location": "Mainland China",
     "established": 1911,
     "type": "Public",
-    "donations": 1015
+    "fee": 1015
   },
   {
     "name": "University of Tokyo",
@@ -123,7 +123,7 @@
     "location": "Japan",
     "established": 1877,
     "type": "Public",
-    "donations": 1100
+    "fee": 1100
   },
   {
     "name": "University of Toronto",
@@ -132,6 +132,6 @@
     "location": "United Kingdom",
     "established": 1827,
     "type": "Public",
-    "donations": 1290
+    "fee": 1290
   }
 ]
