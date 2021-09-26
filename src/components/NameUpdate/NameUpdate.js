@@ -4,7 +4,11 @@ import React from "react";
 const NameUpdate = (props) => {
   let updatedName = "";
   for (const nameSingle of props.nameData) {
-    updatedName = updatedName + nameSingle + ",";
+    if (updatedName === "") {
+      updatedName = updatedName + nameSingle;
+    } else {
+      updatedName = updatedName + ", " + nameSingle;
+    }
   }
   return <div>{updatedName}</div>;
 };
