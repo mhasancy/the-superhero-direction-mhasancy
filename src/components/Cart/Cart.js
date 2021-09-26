@@ -4,26 +4,31 @@ import NameUpdate from "../NameUpdate/NameUpdate";
 //cart component
 const Cart = (props) => {
   const { cart } = props;
+  const { name } = props.cart;
   let total = 0;
+  let arrName = [];
   for (const participant of cart) {
-    total = total + participant.fee;
+    const names = participant.name;
+    if (arrName.includes(names)) {
+      arrName = [...arrName];
+    } else {
+      arrName = [...arrName, names];
+      total = total + participant.fee;
+    }
   }
+
+  // if(cart.includes(cart.name))
   return (
     <div>
       <div>
-        <h3>{props.cart.name}</h3>
-        <h3>University Joined: {props.cart.length}</h3>
+        <h3>{name}</h3>
+        <h3>Universities Paid Fees: {arrName.length}</h3>
       </div>
       <div>
         <h3>Total Fund : $ {total} </h3>
       </div>
       <div>
-        {cart.map((participant) => (
-          <NameUpdate
-            key={participant.key}
-            participant={participant}
-          ></NameUpdate>
-        ))}
+        <NameUpdate nameData={arrName}></NameUpdate>
       </div>
     </div>
   );

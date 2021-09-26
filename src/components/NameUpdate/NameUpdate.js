@@ -1,13 +1,12 @@
-//imported ifle
+//imported file
 import React from "react";
 //name update component
 const NameUpdate = (props) => {
-  console.log(props.participant.name);
-  return (
-    <div>
-      <li>{props.participant.name}</li>
-    </div>
-  );
+  let updatedName = "";
+  for (const nameSingle of props.nameData) {
+    updatedName = updatedName + nameSingle + ",";
+  }
+  return <div>{updatedName}</div>;
 };
 
 export default NameUpdate;
