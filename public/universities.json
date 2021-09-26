@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Massachusetts Institute of Technology",
+    "id": "UPO2021001",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/800px-MIT_Seal.svg.png",
+    "location": "United States",
+    "established": 1861,
+    "type": "Public",
+    "donations": 1400
+  },
+  {
+    "name": "University of Oxford",
+    "id": "UPO2021002",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_arms_of_the_University_of_Oxford.svg",
+    "location": "United Kingdom",
+    "established": 1096,
+    "type": "Public",
+    "donations": 1330
+  },
+  {
+    "name": "Stanford University",
+    "id": "UPO2021003",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b7/Stanford_University_seal_2003.svg",
+    "location": "United States",
+    "established": 1891,
+    "type": "Private",
+    "donations": 1105
+  },
+  {
+    "name": "University of Cambridge",
+    "id": "UPO2021004",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/University_of_Cambridge_coat_of_arms.svg",
+    "location": "United Kingdom",
+    "established": 1209,
+    "type": "Public",
+    "donations": 1304
+  },
+  {
+    "name": "Harvard University",
+    "id": "UPO2021005",
+    "img": "https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg",
+    "location": "United States",
+    "established": 1636,
+    "type": "Private",
+    "donations": 1220
+  },
+  {
+    "name": "California Institute of Technology",
+    "id": "UPO2021006",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Seal_of_the_California_Institute_of_Technology.svg",
+    "location": "United States",
+    "established": 1891,
+    "type": "Private",
+    "donations": 1150
+  },
+  {
+    "name": "Imperial College London",
+    "id": "UPO2021007",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shield_of_Imperial_College_London.svg",
+    "location": "United Kingdom",
+    "established": 1907,
+    "type": "Public",
+    "donations": 1000
+  },
+  {
+    "name": "University College London",
+    "id": "UPO2021008",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/University_College_London_logo.svg",
+    "location": "United Kingdom",
+    "established": 1826,
+    "type": "Public",
+    "donations": 1175
+  },
+  {
+    "name": "University of Chicago",
+    "id": "UPO2021009",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg",
+    "location": "United States",
+    "established": 1890,
+    "type": "Private",
+    "donations": 1090
+  },
+  {
+    "name": "National University of Singapore",
+    "id": "UPO2021010",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/NUS_coat_of_arms.svg",
+    "location": "Singapore",
+    "established": 1905,
+    "type": "Autonomous",
+    "donations": 1025
+  },
+  {
+    "name": "University of Pennsylvania",
+    "id": "UPO2021011",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/UPenn_shield_with_banner.svg",
+    "location": "United States",
+    "established": 1740,
+    "type": "Private",
+    "donations": 1270
+  },
+  {
+    "name": "Yale University",
+    "id": "UPO2021012",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yale_University_Shield_1.svg",
+    "location": "United States",
+    "established": 1701,
+    "type": "Private",
+    "donations": 1100
+  },
+  {
+    "name": "Tsinghua University",
+    "id": "UPO2021013",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tsinghua_University_Logo.svg",
+    "location": "Mainland China",
+    "established": 1911,
+    "type": "Public",
+    "donations": 1015
+  },
+  {
+    "name": "University of Tokyo",
+    "id": "UPO2021014",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/UnivOfTokyo_mark.svg",
+    "location": "Japan",
+    "established": 1877,
+    "type": "Public",
+    "donations": 1100
+  },
+  {
+    "name": "University of Toronto",
+    "id": "UPO2021015",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/04/Utoronto_coa.svg",
+    "location": "United Kingdom",
+    "established": 1827,
+    "type": "Public",
+    "donations": 1290
+  }
+]

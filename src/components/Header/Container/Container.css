@@ -1,0 +1,17 @@
+.container-main {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.university-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.cart-container {
+  border: 1px solid rgba(128, 128, 128, 0.267);
+  padding: 20px;
+  margin: 0 20px 20px 20px;
+  border-radius: 20px;
+  text-align: left;
+  background-color: white;
+}
