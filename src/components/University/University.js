@@ -8,11 +8,15 @@ const University = (props) => {
       <div className="img-uni-single">
         <img src={img} alt="" />
       </div>
-      <h2>{name}</h2>
+      <div className="h-tag-univ">
+        <h2>{name}</h2>
+      </div>
       <h4>Type: {type}</h4>
       <h4>Located: {location}</h4>
-      <h4>Established :{established} BC</h4>
-      <h3>Donation : ${donations}</h3>
+      <h4>Established : {established} BC</h4>
+      <h3>
+        Donation : <strong>${donations}</strong>
+      </h3>
       <div className="btn-div">
         <button
           className="btn-general"
